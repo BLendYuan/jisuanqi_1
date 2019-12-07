@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/add_zhuanhuan"
+        android:title="进制转换"
+        />
+    <item
+        android:id="@+id/add_help"
+        android:title="帮助"/>
+
+</menu>
